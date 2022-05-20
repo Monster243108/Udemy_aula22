@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemyaula22", "Udemyaula22.csproj", "{204F2662-2941-4A0F-9FCB-5EAD35DC2EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemyaula23", "..\Udemyaula23\Udemyaula23.csproj", "{BDD12BA3-1324-465E-B0BD-A494A1652718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204F2662-2941-4A0F-9FCB-5EAD35DC2EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204F2662-2941-4A0F-9FCB-5EAD35DC2EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204F2662-2941-4A0F-9FCB-5EAD35DC2EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204F2662-2941-4A0F-9FCB-5EAD35DC2EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD12BA3-1324-465E-B0BD-A494A1652718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD12BA3-1324-465E-B0BD-A494A1652718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD12BA3-1324-465E-B0BD-A494A1652718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD12BA3-1324-465E-B0BD-A494A1652718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A9C07B-3B5F-4065-94CD-14F43317A4C0}
+	EndGlobalSection
+EndGlobal
